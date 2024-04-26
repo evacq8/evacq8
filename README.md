@@ -1,4 +1,9 @@
-### hi!
+# hi!
+### im just a teenager with a github account named evacq8 and a terrible readme.
+
+i like customizing/ricing stuff, making incomplete games in godot (rip unity), and giving up on projects because i have tons of motivation (sarcasm).
+
+
 
 <!--
 **evacq8/evacq8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
