@@ -1,4 +1,4 @@
-![](github-profile-banner-1.png)
+
 ### im just a teenager with a github account named evacq8 and a terrible readme.
 
 i like customizing/ricing stuff, making incomplete games in godot (rip unity), and giving up on projects because i have tons of motivation (sarcasm).
